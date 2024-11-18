@@ -1,9 +1,8 @@
 kaggle.json
-data_identification.csv
 dm-2024-isa-5810-lab-2-homework.zip
-emotion.csv
-sampleSubmission.csv
-tweets_DM.json
-results/
-logs/
+DM2024-Lab2-Homework.py
+unknown_tokens.json
+submission.csv
 models/
+tokenizers/
+data/
